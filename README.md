@@ -16,7 +16,7 @@ docker logs -f alfresco-rd_alfresco_1
 And wait for the log:
 
 ```
-21-May-2020 17:49:04.489 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 102716 ms
+INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 102716 ms
 ```
 
 After the log appeared, you can connect to Alfresco visiting the page: `http://localhost:8080/alfresco/`
