@@ -19,7 +19,8 @@ And wait for the log:
 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 102716 ms
 ```
 
-After the log appeared, you can connect to Alfresco visiting the page: `http://localhost:8080/alfresco/`
+After the log appeared, you can connect to Alfresco visiting the page: [http://localhost:8080/alfresco/](http://localhost:8080/alfresco/)
+
 
 When you're done, execute:
 
